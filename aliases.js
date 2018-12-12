@@ -1,0 +1,14 @@
+var ALIASES = {};
+ALIASES['bitflags'] = {};
+ALIASES['c_vec'] = {};
+ALIASES['lazy_static'] = {};
+ALIASES['libc'] = {};
+ALIASES['num'] = {};
+ALIASES['num_integer'] = {};
+ALIASES['num_iter'] = {};
+ALIASES['num_traits'] = {};
+ALIASES['rand'] = {};
+ALIASES['rand_core'] = {};
+ALIASES['rand_core'] = {};
+ALIASES['sdl2'] = {};
+ALIASES['sdl2_sys'] = {};
